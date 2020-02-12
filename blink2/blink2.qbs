@@ -5,7 +5,6 @@ CppApplication {
 
     Depends { name: "cpp" }
     Depends { name: "ESP8266Core" }
-//    Depends { name: "ESP8266WiFi" }
 
     ESP8266Module.serialPort: "COM27"
 
